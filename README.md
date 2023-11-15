@@ -1,2 +1,2 @@
 # HR-Employee-Attrition-Analysis
-![]("Employee-attrition-analytics.png")
+![](Employee-attrition-analytics.png)
